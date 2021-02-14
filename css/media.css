@@ -1,0 +1,97 @@
+@media(max-width:1239px){
+    .banner h1 {
+  
+        font-size: 55px;
+    } 
+}
+@media(max-width:767px){
+    .hg {
+        min-height: 60vh;
+    
+    }
+@media(max-width:575px){
+ .navbar-brand img{
+width:70%;
+ }
+.banner h1 {
+  
+    font-size: 40px;
+
+}
+.hg {
+    min-height: 50vh;
+}
+
+.step{
+    top: 48px;
+    left: 0px;
+}
+.step2{
+    left: -1px;
+    top: 49px;  
+}
+.step3{
+    top: 48px;
+    left: 0px;
+}
+.step4{
+    left: -1px;
+    top: 49px;  
+}
+.step-cont {
+text-align: center!important;
+padding: 19px !important;
+
+}
+.approach h1 {
+   
+font-size: 30px;
+}
+.approach h5{
+font-size:16px;
+}
+.text{
+    text-align: center;
+}
+.step-cont .pe-5{
+padding: 0 !important;
+}
+}
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
